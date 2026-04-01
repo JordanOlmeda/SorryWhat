@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_BackWall",
+  "%Name":"obj_Table",
   "eventList":[],
   "managed":true,
-  "name":"obj_BackWall",
+  "name":"obj_Table",
   "overriddenProperties":[],
   "parent":{
-    "name":"WizardRoomBackground",
-    "path":"folders/WizardRoomBackground.yy",
+    "name":"Objects",
+    "path":"folders/WizardClickables/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_BackWall2",
-    "path":"sprites/spr_BackWall2/spr_BackWall2.yy",
+    "name":"spr_table",
+    "path":"sprites/spr_table/spr_table.yy",
   },
   "spriteMaskId":null,
   "visible":true,
