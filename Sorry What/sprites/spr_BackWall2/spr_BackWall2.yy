@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"d06c4913-603e-4ff7-8ce1-ee36291e655a","blendMode":0,"displayName":"RightShelves","isLocked":true,"name":"d06c4913-603e-4ff7-8ce1-ee36291e655a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":false,},
     {"$GMImageLayer":"","%Name":"38120651-7686-455e-b4dc-1ab70ddee754","blendMode":0,"displayName":"Wall","isLocked":true,"name":"38120651-7686-455e-b4dc-1ab70ddee754","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"af8fbd31-9843-4199-a049-dabc39831225","blendMode":0,"displayName":"Floor","isLocked":false,"name":"af8fbd31-9843-4199-a049-dabc39831225","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"1325ec82-d1ad-4b1d-aca7-c8e522f431f8","blendMode":0,"displayName":"Floor","isLocked":false,"name":"1325ec82-d1ad-4b1d-aca7-c8e522f431f8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_BackWall2",
   "nineSlice":null,
