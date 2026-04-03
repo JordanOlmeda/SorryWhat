@@ -1,0 +1,1 @@
+draw_sprite(global.cursors[global.cursor_index], 0, mouse_x, mouse_y)

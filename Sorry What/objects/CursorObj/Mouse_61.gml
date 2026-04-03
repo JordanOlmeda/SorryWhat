@@ -1,0 +1,1 @@
+global.cursor_index = (global.cursor_index - 1 + array_length(global.cursors)) % array_length(global.cursors);
