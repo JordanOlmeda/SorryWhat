@@ -69,6 +69,7 @@
     {"id":{"name":"spr_Blacktitle","path":"sprites/spr_Blacktitle/spr_Blacktitle.yy",},},
     {"id":{"name":"spr_bluepotion","path":"sprites/spr_bluepotion/spr_bluepotion.yy",},},
     {"id":{"name":"spr_cauldron","path":"sprites/spr_cauldron/spr_cauldron.yy",},},
+    {"id":{"name":"spr_goblin2","path":"sprites/spr_goblin2/spr_goblin2.yy",},},
     {"id":{"name":"spr_greenpotion","path":"sprites/spr_greenpotion/spr_greenpotion.yy",},},
     {"id":{"name":"spr_PlayButton","path":"sprites/spr_PlayButton/spr_PlayButton.yy",},},
     {"id":{"name":"spr_PurpleOrb","path":"sprites/spr_PurpleOrb/spr_PurpleOrb.yy",},},
