@@ -28,7 +28,6 @@
   },
   "name":"Sorry What",
   "resources":[
-    {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},},
     {"id":{"name":"obj_BackWall","path":"objects/obj_BackWall/obj_BackWall.yy",},},
     {"id":{"name":"obj_Blacktitle","path":"objects/obj_Blacktitle/obj_Blacktitle.yy",},},
     {"id":{"name":"obj_bluepotion","path":"objects/obj_bluepotion/obj_bluepotion.yy",},},
