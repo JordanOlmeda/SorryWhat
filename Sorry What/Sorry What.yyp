@@ -35,6 +35,7 @@
     {"id":{"name":"obj_draggables","path":"objects/obj_draggables/obj_draggables.yy",},},
     {"id":{"name":"obj_greenpotion","path":"objects/obj_greenpotion/obj_greenpotion.yy",},},
     {"id":{"name":"obj_playbutton","path":"objects/obj_playbutton/obj_playbutton.yy",},},
+    {"id":{"name":"obj_PurpleOrb","path":"objects/obj_PurpleOrb/obj_PurpleOrb.yy",},},
     {"id":{"name":"obj_quitbutton","path":"objects/obj_quitbutton/obj_quitbutton.yy",},},
     {"id":{"name":"obj_redpotion","path":"objects/obj_redpotion/obj_redpotion.yy",},},
     {"id":{"name":"obj_Table","path":"objects/obj_Table/obj_Table.yy",},},
