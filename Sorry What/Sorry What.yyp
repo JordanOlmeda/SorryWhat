@@ -79,6 +79,7 @@
     {"id":{"name":"spr_TitleBackground","path":"sprites/spr_TitleBackground/spr_TitleBackground.yy",},},
     {"id":{"name":"spr_Whitetitle","path":"sprites/spr_Whitetitle/spr_Whitetitle.yy",},},
     {"id":{"name":"spr_yellowpotion","path":"sprites/spr_yellowpotion/spr_yellowpotion.yy",},},
+    {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
     {"id":{"name":"Talk","path":"sprites/Talk/Talk.yy",},},
     {"id":{"name":"Town","path":"sprites/Town/Town.yy",},},
     {"id":{"name":"Window","path":"sprites/Window/Window.yy",},},
